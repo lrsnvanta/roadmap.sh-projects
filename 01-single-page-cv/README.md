@@ -6,12 +6,10 @@ my link: https://lrsnvanta.github.io/roadmap.sh-projects/01-single-page-cv/
 
 # Resources and Opinions
 I know the project said just use HTML, I just can't help myself add a little CSS (just using style tag inside HTML not as an external file).
-You can check out some of these resources to help your CSS knowledge:
-1) https://www.w3schools.com/css/
-2) https://www.w3schools.com/css/css3_flexbox.asp
-3) https://www.w3schools.com/css/css_font_size.asp
-4) https://www.w3schools.com/css/css_font_style.asp
-5) https://www.w3schools.com/cssref/sel_hover.php
+You can check out some of these resources to help your HTML/CSS knowledge:
+1) https://devdocs.io/html/
+2) https://devdocs.io/css/
+3) https://devdocs.io/css/css_flexible_box_layout/basic_concepts_of_flexbox
 <br>
 I got my favicon from here:
 <br>
